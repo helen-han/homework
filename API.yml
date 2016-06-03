@@ -1,0 +1,4 @@
+API:
+ url1: https://api.github.com/user
+ url2: https://api.github.com/search/code?q={query}{&page,per_page,sort,order}
+ url3: https://api.github.com/user/emails
